@@ -1,3 +1,5 @@
 postgres-data
 
 *.env
+
+bin
